@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Letters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	 	 xsi:noNamespaceSchemaLocation="letters.xsd"
+	 	 type="basic">
+	
+	<dataset type="simple" effdate="2002-10-01">
+		<channel channeldest="PDF"/>
+		<customer>
+			<name>
+				<title>Ms</title>
+				<firstname>Sarah</firstname>
+				<surname>Smith</surname>
+				<salutation>Ms Smith</salutation>
+			</name>
+			<address>
+				<house>38</house>
+				<street1>Branston Crescent</street1>
+				<street2>Melton Mowbray</street2>
+				<area>Leicestershire</area>
+				<postcode>LE13 1ER</postcode>
+				<country>UK</country>
+				<email>smith.test@thunderhead.com</email>
+				<mobile>123456789112</mobile>
+			</address>
+			<account>
+				<sortcode>11-22-33</sortcode>
+				<accnum>55000001</accnum>
+				<acctype>JF</acctype>
+			</account>
+			<profile>
+				<dob>01/01/1967</dob>
+				<gender>F</gender>
+				<creditscore>6</creditscore>
+				<maritalstatus>Single</maritalstatus>
+				<custtype>Standard</custtype>
+				<joiningdate>25/01/1989</joiningdate>
+				<priveledge>SILVER</priveledge>
+				<channel>PDF</channel>
+				<uktaxpayer>Yes</uktaxpayer>
+				<averagebalance>250.00</averagebalance>
+			</profile>
+		</customer>
+	</dataset>	
+</Letters> 	 
