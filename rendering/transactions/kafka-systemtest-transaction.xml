@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<data>
+    <document>
+        <ACMQUOPD>
+            <COMPANY_LOCATION>
+                <LOKADR EMAIL="contact.itmp@allianz.com"/>
+            </COMPANY_LOCATION>
+            <QUOTE_EXPIRY FIRMDAT_TEXT="14"/>
+            <POLICY_HOLDER ADRZUS="" ANRTITEL="" DOB="0001-01-01" FAMNAME="Quotation" FIRMENNAME="" HAUSNR="5" HAUSNRZUS="" KUNDENNR="19720512" KZPERS="N" ORTSCHAFT="Wien" ORTSTEIL="" PREFLANGUAGE="English" STIEGE="" STRASSE="Rosa-Jochmann-Ring" TUERNR="" VORNAME="Sneha" ZWNAME="">
+                <MAIN_ADDRESS POSTLANDSCHL="Austria" POSTLEITZAHL="1110"/>
+                <KOMM_EMAIL KENNUNG="sneha.madhukarrao-peshattiwar@allianz.com"/>
+                <KOMM_MOBILE KENNUNG="908989890890"/>
+            </POLICY_HOLDER>
+        </ACMQUOPD>
+        <TVERTRAG1>
+            <OFFER_QUOTES ABLDAT="2022-04-19" AUSFGRUND1="G01" AUSFGRUND2="" AUSFGRUND3="" BEGDAT="2021-04-19" FIRMA="CD" FREMDWAEHRUNG="" HSP_PRODBEZ="Master Motor" HSP_PRODKBEZ="MOTOR" INKASSOART="Payment slip" POLLFNR="456" SALDO="0" SALESOFFSHORTTXT="KO" VERTRART="E" VERTRAUSFGRUND="New contract of applied insurance" WERBERNR="0000061" WIRKBEGDAT="2021-04-19" ZAHLWEISE="J">
+                <VERTRZUS VORSCHLAGSNR="001"/>
+                <VERSVERTRAG EPBRUTTO="0" EPNETTO="0" JPRBRUTTO="232.2" JPRNETTO="180" SPARTE_EIGEN="RS" SPL_DIS="0" SPP="85c96955-8c37-11e9-a789-7e894f94aad3" SP_PRODBEZ="Master Legal Protection" SP_PRODKBEZ="MLEPR" VERTZUSTDET="" ZUSTAND="A">
+                    <PRODAUS JAHRESTPR_NETTO="0" PBLAUFNR="152" PRODBAUBEZ="General Terms and Conditions Legal Protection" SUMARTBEZ="None" SUMME="0">
+                        <COVERAGE_DESC BAUSTEINTYP="R" PB="d2f4820c-8c37-11e9-a789-7e894f94aad3" PRODBSTZUSINFO=""/>
+                    </PRODAUS>
+                    <PRODAUS JAHRESTPR_NETTO="180" PBLAUFNR="151" PRODBAUBEZ="Main Component Legal Protection" SUMARTBEZ="Sum insured" SUMME="10000">
+                        <COVERAGE_DESC BAUSTEINTYP="H" PB="bc67f499-8c37-11e9-a789-7e894f94aad3" PRODBSTZUSINFO=""/>
+                    </PRODAUS>
+                    <TAX PROZENT="10" ZUSKART="Liquidity costs" ZUSKBETR="0"/>
+                    <TAX PROZENT="19" ZUSKART="Insurance tax" ZUSKBETR="0"/>
+                </VERSVERTRAG>
+                <VERSVERTRAG EPBRUTTO="0" EPNETTO="0" JPRBRUTTO="12.9" JPRNETTO="10" SPARTE_EIGEN="AS" SPL_DIS="0" SPP="7d24edcd-8c38-11e9-a789-7e894f94aad3" SP_PRODBEZ="Master Motor Assistance" SP_PRODKBEZ="MMOTA" VERTZUSTDET="" ZUSTAND="A">
+                    <PRODAUS JAHRESTPR_NETTO="0" PBLAUFNR="157" PRODBAUBEZ="General Terms and Conditions Motor Assistance" SUMARTBEZ="None" SUMME="0">
+                        <COVERAGE_DESC BAUSTEINTYP="R" PB="c92d7f84-8c38-11e9-a789-7e894f94aad3" PRODBSTZUSINFO=""/>
+                    </PRODAUS>
+                    <PRODAUS JAHRESTPR_NETTO="10" PBLAUFNR="156" PRODBAUBEZ="Main Component Motor Assistance" SUMARTBEZ="None" SUMME="0">
+                        <COVERAGE_DESC BAUSTEINTYP="H" PB="b7792e11-8c38-11e9-a789-7e894f94aad3" PRODBSTZUSINFO=""/>
+                    </PRODAUS>
+                    <PRODAUS JAHRESTPR_NETTO="0" PBLAUFNR="159" PRODBAUBEZ="Passenger Assistance" SUMARTBEZ="None" SUMME="0">
+                        <COVERAGE_DESC BAUSTEINTYP="Z" PB="efde488a-8c38-11e9-a789-7e894f94aad3" PRODBSTZUSINFO="Under this coverage , durimg an accident - family members travelling with the insured will be assisted for medical transport or hospital allowance expenses."/>
+                    </PRODAUS>
+                    <TAX PROZENT="10" ZUSKART="Liquidity costs" ZUSKBETR="0"/>
+                    <TAX PROZENT="19" ZUSKART="Insurance tax" ZUSKBETR="0"/>
+                </VERSVERTRAG>
+                <VERSVERTRAG EPBRUTTO="0" EPNETTO="0" JPRBRUTTO="180.6" JPRNETTO="140" SPARTE_EIGEN="IU" SPL_DIS="0" SPP="61636ff1-8c36-11e9-a789-7e894f94aad3" SP_PRODBEZ="Master PA" SP_PRODKBEZ="MPASA" VERTZUSTDET="" ZUSTAND="A">
+                    <PRODAUS JAHRESTPR_NETTO="0" PBLAUFNR="145" PRODBAUBEZ="General Terms and Conditions PA" SUMARTBEZ="None" SUMME="0">
+                        <COVERAGE_DESC BAUSTEINTYP="R" PB="a1424c48-8c36-11e9-a789-7e894f94aad3" PRODBSTZUSINFO=""/>
+                    </PRODAUS>
+                    <PRODAUS JAHRESTPR_NETTO="140" PBLAUFNR="144" PRODBAUBEZ="Main Component PA" SUMARTBEZ="None" SUMME="0">
+                        <COVERAGE_DESC BAUSTEINTYP="H" PB="900526a5-8c36-11e9-a789-7e894f94aad3" PRODBSTZUSINFO=""/>
+                    </PRODAUS>
+                    <PRODAUS JAHRESTPR_NETTO="0" PBLAUFNR="146" PRODBAUBEZ="PA Coverage for Driver Only" SUMARTBEZ="Sum insured without summation" SUMME="50000">
+                        <COVERAGE_DESC BAUSTEINTYP="Z" PB="bdf6a02b-8c36-11e9-a789-7e894f94aad3" PRODBSTZUSINFO="Under this coverage, compensation is paid to the driver in case of any injury, disability or even death - thus ensuring the driver is protected too."/>
+                    </PRODAUS>
+                    <PRODAUS JAHRESTPR_NETTO="0" PBLAUFNR="147" PRODBAUBEZ="PA Coverage for Passengers Only" SUMARTBEZ="Sum insured without summation" SUMME="50000">
+                        <COVERAGE_DESC BAUSTEINTYP="Z" PB="d41a59ae-8c36-11e9-a789-7e894f94aad3" PRODBSTZUSINFO="This coverage, covers pay outs towards injuries sustained to passengers in an accident, which includes temporary or permanent disability or fatal death accidents."/>
+                    </PRODAUS>
+                    <PRODAUS JAHRESTPR_NETTO="0" PBLAUFNR="148" PRODBAUBEZ="Death Due to Vehicle Accident" SUMARTBEZ="Sum insured" SUMME="50000">
+                        <COVERAGE_DESC BAUSTEINTYP="Z" PB="e9c70e71-8c36-11e9-a789-7e894f94aad3" PRODBSTZUSINFO="This coverage covers pay outs for fatal death accidents of insureds, when the vehicle has met with an accident. The payouts are the to the maximum of the policy limits."/>
+                    </PRODAUS>
+                    <PRODAUS JAHRESTPR_NETTO="0" PBLAUFNR="149" PRODBAUBEZ="Disability Due to Vehicle Accident" SUMARTBEZ="Sum insured without summation" SUMME="50000">
+                        <COVERAGE_DESC BAUSTEINTYP="Z" PB="fd5e9ed4-8c36-11e9-a789-7e894f94aad3" PRODBSTZUSINFO="Under this coverage, it provides benefits if the insured becomes disabled due to an unexpected or not purposefully caused   event. The disability includes permanent or temporary disability caused due to accidents."/>
+                    </PRODAUS>
+                    <TAX PROZENT="10" ZUSKART="Liquidity costs" ZUSKBETR="0"/>
+                    <TAX PROZENT="19" ZUSKART="Insurance tax" ZUSKBETR="0"/>
+                </VERSVERTRAG>
+                <VERSVERTRAG EPBRUTTO="0" EPNETTO="0" JPRBRUTTO="23.22" JPRNETTO="18" SPARTE_EIGEN="KH" SPL_DIS="0" SPP="ca8f87e2-8c10-11e9-9f8f-7e894f94aad3" SP_PRODBEZ="Master MTPL" SP_PRODKBEZ="MATPL" VERTZUSTDET="" ZUSTAND="A">
+                    <PRODAUS JAHRESTPR_NETTO="0" PBLAUFNR="123" PRODBAUBEZ="General Terms and Conditions MTPL" SUMARTBEZ="None" SUMME="0">
+                        <COVERAGE_DESC BAUSTEINTYP="R" PB="3fd43054-8c30-11e9-9f8f-7e894f94aad3" PRODBSTZUSINFO=""/>
+                    </PRODAUS>
+                    <PRODAUS JAHRESTPR_NETTO="18" PBLAUFNR="122" PRODBAUBEZ="Main Component MTPL" SUMARTBEZ="None" SUMME="0">
+                        <COVERAGE_DESC BAUSTEINTYP="H" PB="b2e69889-8c11-11e9-9f8f-7e894f94aad3" PRODBSTZUSINFO=""/>
+                    </PRODAUS>
+                    <PRODAUS JAHRESTPR_NETTO="0" PBLAUFNR="124" PRODBAUBEZ="Material Damage Sum Insured" SUMARTBEZ="Sum insured" SUMME="100000">
+                        <COVERAGE_DESC BAUSTEINTYP="Z" PB="994da7f8-8c31-11e9-9f8f-7e894f94aad3" PRODBSTZUSINFO="Under this cover benefit it protects your business-critical premises, contents and equipment against the threat from sudden or unforeseen events like fire, storm or flood"/>
+                    </PRODAUS>
+                    <PRODAUS JAHRESTPR_NETTO="0" PBLAUFNR="551" PRODBAUBEZ="Material Damage- Deductible" SUMARTBEZ="Deductible" SUMME="500">
+                        <COVERAGE_DESC BAUSTEINTYP="Z" PB="907640ac-dc98-11ea-a487-0eb7e01f17e5" PRODBSTZUSINFO=""/>
+                    </PRODAUS>
+                    <PRODAUS JAHRESTPR_NETTO="0" PBLAUFNR="125" PRODBAUBEZ="Bodily Injuries" SUMARTBEZ="Sum insured" SUMME="500000">
+                        <COVERAGE_DESC BAUSTEINTYP="Z" PB="a963b2bb-8c31-11e9-9f8f-7e894f94aad3" PRODBSTZUSINFO="Under this cover If you're at fault in a car accident that injures someone, bodily injury liability coverage pays for their medical expenses and lost wages that are a result of their injuries"/>
+                    </PRODAUS>
+                    <PRODAUS JAHRESTPR_NETTO="0" PBLAUFNR="161" PRODBAUBEZ="Expected Mileage" SUMARTBEZ="Value" SUMME="7499">
+                        <COVERAGE_DESC BAUSTEINTYP="Z" PB="f6312d85-c7ef-11e9-9662-e67183cceccc" PRODBSTZUSINFO=""/>
+                    </PRODAUS>
+                    <TAX PROZENT="10" ZUSKART="Liquidity costs" ZUSKBETR="0"/>
+                    <TAX PROZENT="0" ZUSKART="Material damage" ZUSKBETR="10"/>
+                    <TAX PROZENT="19" ZUSKART="Insurance tax" ZUSKBETR="0"/>
+                </VERSVERTRAG>
+                <Vertr_Sonstroll_DRIVER>
+                    <DRIVER ANRTITEL="" DOB="2003-04-03" FAMNAME="DEFAULT" VORNAME="DEFAULT"/>
+                </Vertr_Sonstroll_DRIVER>
+                <Vertr_Sonstroll_DRIVER>
+                    <DRIVER ANRTITEL="" DOB="2003-04-02" FAMNAME="DEFAULT" VORNAME="DEFAULT"/>
+                </Vertr_Sonstroll_DRIVER>
+                <Vertr_Sonstroll_ADD_DRIVER>
+                    <ADD_DRIVER ANRTITEL="" DOB="2003-04-02" FAMNAME="DEFAULT" VORNAME="DEFAULT"/>
+                </Vertr_Sonstroll_ADD_DRIVER>
+            </OFFER_QUOTES>
+            <SYSTEM_DATE CURRENT_DATETIME="04/27/2021, 14:07:29"/>
+            <TKFZ_POLICY_SCHEDULE AUFBAU="Limousine/Sedan" FAHRGESTNR="" HERSTELLUNGSJAHR="2015" HUBRAUM="1368" KFZKZ="MOCK123" KRAFTSTOFFART="B" KZLEASING="0" MARKE="Abarth" MODELL="500" MOTORNR="" NEUPREIS="26900" ROLLE_BEZ="Private" SITZPLATZANZ="4" TYP="KFZK120">
+                <BESITZVERH>
+                    <CAR_OWNER ANRTITEL="" FAMNAME="Quotation" VORNAME="Sneha"/>
+                </BESITZVERH>
+                <BESITZVERH>
+                    <CAR_OWNER ANRTITEL="" FAMNAME="DEFAULT" VORNAME="DEFAULT"/>
+                </BESITZVERH>
+                <BESITZVERH>
+                    <CAR_OWNER ANRTITEL="" FAMNAME="DEFAULT" VORNAME="DEFAULT"/>
+                </BESITZVERH>
+            </TKFZ_POLICY_SCHEDULE>
+        </TVERTRAG1>
+        <metadata brand="CD" effektiveDate="2021-04-27Z" effektiveDateFormatted="04/27/2021" id="STATICCONTENTDEMO" language="EUK" paymentorder="false" registered="false" responseletter="false" sensitivity="3" usage="PDF"/>
+    </document>
+</data>
