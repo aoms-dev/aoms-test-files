@@ -3,12 +3,12 @@
     <document>
         <ACMQUOPD>
             <COMPANY_LOCATION>
-                <LOKADR EMAIL="contact.itmp@allianz.com"/>
+                <LOKADR EMAIL="contact@email.com"/>
             </COMPANY_LOCATION>
             <QUOTE_EXPIRY FIRMDAT_TEXT="14"/>
             <POLICY_HOLDER ADRZUS="" ANRTITEL="" DOB="0001-01-01" FAMNAME="Quotation" FIRMENNAME="" HAUSNR="5" HAUSNRZUS="" KUNDENNR="19720512" KZPERS="N" ORTSCHAFT="Wien" ORTSTEIL="" PREFLANGUAGE="English" STIEGE="" STRASSE="Rosa-Jochmann-Ring" TUERNR="" VORNAME="Sneha" ZWNAME="">
                 <MAIN_ADDRESS POSTLANDSCHL="Austria" POSTLEITZAHL="1110"/>
-                <KOMM_EMAIL KENNUNG="sneha.madhukarrao-peshattiwar@allianz.com"/>
+                <KOMM_EMAIL KENNUNG="user-agent@email.com"/>
                 <KOMM_MOBILE KENNUNG="908989890890"/>
             </POLICY_HOLDER>
         </ACMQUOPD>
